@@ -1,4 +1,4 @@
-####Quy trình làm ra web localhost:
+# Quy trình làm ra web localhost:
 
 ##### Trước tiên cần download các ứng dụng sau về máy:
 
