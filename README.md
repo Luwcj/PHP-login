@@ -36,7 +36,7 @@ Sau đó Start cái Apache và MySQL nếu như đoạn code của bạn sử d�
 
 ![](https://cdn.discordapp.com/attachments/1098605833371267172/1114944402062848020/image.png)
 
-Sau đó bạn vào Chrome và gõ đường dẫn http://localhost/demo/index.php,và đây là kết quả:
+Sau đó bạn vào Chrome và gõ đường dẫn http://localhost/demo/index.php, và đây là kết quả:
 
 ![](https://cdn.discordapp.com/attachments/1098605833371267172/1114945505928155196/image.png)
 
