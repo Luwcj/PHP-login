@@ -1,6 +1,6 @@
-#Quy trình làm ra web localhost:
+####Quy trình làm ra web localhost:
 
-#### Trước tiên cần download các ứng dụng sau về máy:
+##### Trước tiên cần download các ứng dụng sau về máy:
 
 - Xampp: https://www.apachefriends.org/download.ht
 
@@ -16,6 +16,7 @@ Sau khi tải được 3 ứng dụng trên về rồi ta tiến hành cài đ�
 
 
 Tiếp theo các bạn vào Apache NetBeans-> File-> New Project-> Next-> Finish:
+
 ![](https://cdn.discordapp.com/attachments/1098605833371267172/1114942212363534366/image.png)
 
 Các bạn thử code 1 đoạn PHP trong file index.php vừa tạo như sau:
@@ -28,11 +29,14 @@ echo 'Lực depzai 20cm ahihi!';
 Sau đó các bạn lưu file lại.
 
 Tiếp thep ta mở ứng dụng Xampp:
+
 ![](https://media.discordapp.net/attachments/1098605833371267172/1114944634733461625/image.png)
 
 Sau đó Start cái Apache và MySQL nếu như đoạn code của bạn sử dụng tới cơ sở dữ liệu MySQL:
+
 ![](https://cdn.discordapp.com/attachments/1098605833371267172/1114944402062848020/image.png)
 
 Sau đó bạn vào Chrome và gõ đường dẫn http://localhost/demo/index.php,và đây là kết quả:
+
 ![](https://cdn.discordapp.com/attachments/1098605833371267172/1114945505928155196/image.png)
 
